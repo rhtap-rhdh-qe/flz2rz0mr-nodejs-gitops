@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: flz2rz0mr-nodejs-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/flz2rz0mr-nodejs
